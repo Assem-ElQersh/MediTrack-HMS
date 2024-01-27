@@ -10,3 +10,6 @@
 *Data Display*: Method to view all users' data in a structured format.<br>
 *User Data Management*: Facilities to check the existence of users, update their information, and delete profiles as needed.<br>
 *Safe Exit*: Option to safely terminate the program, preserving data integrity.
+
+### Image from GUI
+![alt text](https://github.com/Assem-ElQersh/MediTrack-HMS/blob/main/MediTrack-HMS%20GUI.png?raw=true)
