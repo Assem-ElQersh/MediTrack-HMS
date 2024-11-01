@@ -1,5 +1,5 @@
 # MediTrack-HMS
-#### MediTrack-HMS: A Comprehensive Hospital Management System in Java
+#### MediTrack-HMS: A  Hospital Management System in Java
 **MediTrack-HMS** aims to revolutionize hospital management by offering an intuitive Java-based Management System. This system emphasizes a menu-driven interface for seamless navigation and efficient management of hospital tasks. It supports comprehensive CRUD (Create, Read, Update, Delete) operations, allowing users to interact with and manipulate data effortlessly.
 
 ### Key Features:
